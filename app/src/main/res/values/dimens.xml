@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimensdelapan">8dp</dimen>
+    <dimen name="limabelas">15dp</dimen>
+    <dimen name="dimenstiga">3dp</dimen>
+</resources>
